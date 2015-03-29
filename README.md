@@ -1,17 +1,17 @@
 # sockio
-Chat Application built with MEAN stack + Socket.io
+A very simple MEANS boilerplate (Mongo, Express, Angular, Node, Socket.io)
 
 ### Requirements:
 Node, NPM and Mongodb
 
 ### Installation:
 ```sh
-$ git clone https://github.com/joel1st/sockio.git
+$ git clone https://github.com/joel1st/socketboilerplate.git
 $ npm install
 $ npm start
 ``` 
 
-### Use JShint while developing:
+### Use JShint/Live Reload/SASS while developing:
 ```sh
 grunt watch
 ```
