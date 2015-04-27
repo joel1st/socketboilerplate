@@ -1,6 +1,8 @@
 # sockio
 A very simple MEANS boilerplate (Mongo, Express, Angular, Node, Socket.io)
 
+#DO NOT USE THIS, PERSONAL EXPERIMENTATION ONLY/NOT SUITABLE FOR PUBLIC USE
+
 ### Requirements:
 Node, NPM and Mongodb
 

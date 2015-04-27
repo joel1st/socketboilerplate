@@ -1,5 +1,5 @@
 "use strict";
-var chatApp = angular.module('chatApp', ["ngRoute", "angularMoment"]);
+var chatApp = angular.module('chatApp', ["ngRoute"]);
 
 chatApp.config(['$routeProvider', function($routeProvider) {
 	$routeProvider.
